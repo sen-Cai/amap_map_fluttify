@@ -14,7 +14,10 @@ dependencies:
     git:
       url: https://github.com/sen-Cai/foundation_fluttify.git
       ref: ebdd51b5706e05396ae716d7857eabe3c1b83ee8
-  amap_core_fluttify: ^0.0.1
+  amap_core_fluttify: 
+    git:
+      url: https://github.com/sen-Cai/amap_core_fluttify.git
+      ref: 0a0cd714dba00deec265dd19cae984c6cf0eb358
   url_launcher: ^5.0.0
 
 dev_dependencies:
