@@ -10,7 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  foundation_fluttify: ^0.1.1
+  foundation_fluttify:
+    git:
+      url: https://github.com/sen-Cai/foundation_fluttify.git
+      ref: ebdd51b5706e05396ae716d7857eabe3c1b83ee8
   amap_core_fluttify: ^0.0.1
   url_launcher: ^5.0.0
 
