@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   foundation_fluttify: ^0.1.2
-  amap_core_fluttify: ^0.1.0+4f403aa
+  amap_core_fluttify: ^0.0.1
   url_launcher: ^5.0.0
 
 dev_dependencies:
